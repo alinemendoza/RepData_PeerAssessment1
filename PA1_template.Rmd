@@ -2,7 +2,9 @@
 title: "PA1_template"
 author: "Aline Teresa L. Mendoza"
 date: "January 26, 2019"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
